@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-plantShopping/static/css/main.b7730d48.css",
+    "main.js": "/e-plantShopping/static/js/main.ddeca63a.js",
+    "index.html": "/e-plantShopping/index.html",
+    "main.b7730d48.css.map": "/e-plantShopping/static/css/main.b7730d48.css.map",
+    "main.ddeca63a.js.map": "/e-plantShopping/static/js/main.ddeca63a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7730d48.css",
+    "static/js/main.ddeca63a.js"
+  ]
+}
