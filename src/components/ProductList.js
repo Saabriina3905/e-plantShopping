@@ -17,18 +17,18 @@ function ProductList() {
                 { name: "Spider Plant", image: "https://cdn.pixabay.com/photo/2018/07/11/06/47/chlorophytum-3530413_1280.jpg", description: "Filters formaldehyde and xylene.", cost: "$12" }
             ]
         },
-       {
+{
     category: "Aromatic",
     plants: [
         { 
             name: "Lavender", 
-            image: "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?q=80&w=1964&auto=format&fit=crop", 
+            image: "/download.jpeg", // Matches your filename in public
             description: "Calming scent, perfect for bedrooms.", 
             cost: "$20" 
         },
         { 
             name: "Rosemary", 
-            image: "https://cdn.pixabay.com/photo/2018/07/11/06/47/chlorophytum-3530413_1280.jpg", 
+            image: "/images.jpeg", // Matches your filename in public
             description: "Wonderful aroma, used in cooking.", 
             cost: "$15" 
         }
